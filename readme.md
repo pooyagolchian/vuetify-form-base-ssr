@@ -30,4 +30,4 @@ Or you can import this component to your desire components like as below
 
 ## Documentation
 
-[Link to main site documentation](https://wotamann.github.io/simple)
+[Link to main site documentation](https://wotamann.github.io/vuetify)

@@ -1,6 +1,6 @@
 {
     "name": "vuetify-form-base-ssr",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Vuetify form generator",
     "main": "dist/vuetify-form-base-ssr.ssr.js",
     "browser": "dist/vuetify-form-base-ssr.esm.js",
